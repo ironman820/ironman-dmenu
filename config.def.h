@@ -16,6 +16,7 @@ static const char *colors[SchemeLast][2] = {
 	[SchemeNorm] = { "#bbbbbb", "#222222" },
 	[SchemeSel] = { "#eeeeee", "#005577" },
 	[SchemeOut] = { "#000000", "#00ffff" },
+	[SchemeHp]  = { "#bbbbbb", "#333333" }
 };
 
 static const unsigned int alphas[SchemeLast][2] = {
